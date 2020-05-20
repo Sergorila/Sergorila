@@ -16,7 +16,7 @@ public:
 	{
 		return sqrt(p1.x * p1.x + p1.y * p1.y) < sqrt(p2.x * p2.x + p2.y * p2.y);
 	}
-	// áåç ôóíêöèè ñğàâíåíèÿ	  
+	// Ğ±ĞµĞ· Ñ„ÑƒĞ½ĞºÑ†Ğ¸Ğ¸ ÑÑ€Ğ°Ğ²Ğ½ĞµĞ½Ğ¸Ñ	  
 	/*friend bool operator> (Point p1 , Point p2)
 	{
 	return sqrt(p1.x * p1.x + p1.y * p1.y) > sqrt(p2.x * p2.x + p2.y * p2.y);
